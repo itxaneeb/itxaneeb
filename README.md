@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aneeb Hassan</h1>
 <h3 align="center">A passionate Backend developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itxaneeb&label=Profile%20views&color=0e75b6&style=flat" alt="itxaneeb" /> </p>
 
@@ -24,4 +23,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/itxaneeb"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="itxaneeb" /></a></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itxaneeb&show_icons=true&locale=en" alt="itxaneeb" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itxaneeb&show_icons=true&locale=en&layout=compact" alt="itxaneeb" /></p>
